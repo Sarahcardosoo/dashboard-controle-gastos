@@ -39,7 +39,7 @@ O projeto tem como objetivo transformar dados brutos em informações visuais cl
 
 ## Visual do Dashboard
 
-![Dashboard](imagem/dashboard.png)
+![Dashboard](imagem/dashboard)
 
 ## Resultados e Aprendizados
 
